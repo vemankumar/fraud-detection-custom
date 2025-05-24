@@ -1,3 +1,8 @@
+<!-- Custmoized by: Veman Kumar Uppula -->
+
+> 📝 Note by Veman:  
+> This method helps reduce false positives in fraud detection by focusing on transaction patterns.
+
 (Fraud_Detection_System)=
 # Credit card fraud detection system
 
